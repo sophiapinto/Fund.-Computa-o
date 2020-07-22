@@ -1,8 +1,7 @@
 # Implementação de um algoritmo em Python
 # Tarefa 2
 # Código by: Sarah Sophia Pinto
-#Universidade Federal do Maranhão-UFMA
-#Curso: BICT 2°período  Turma: 23456M123
+
 
 
 #Valores dos produtos
